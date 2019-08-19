@@ -1,5 +1,5 @@
 <context> 
-  <input pattern="* * *">
-    <output value="Íó ïðâèåò"/>
+  <input pattern="* hello* "> 
+    <output value="Hi"/>
   </input>Ну привет"/>
 </context>
