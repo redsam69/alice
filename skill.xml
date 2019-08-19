@@ -1,5 +1,6 @@
 <context> 
   <input pattern="* hello* "> 
     <output value="Hi"/>
+    <output value='{"text":"HI","end_session":false,"buttons":[]}'/>
   </input>Ну привет"/>
 </context>
